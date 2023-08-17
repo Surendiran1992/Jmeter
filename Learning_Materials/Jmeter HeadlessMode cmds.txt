@@ -1,0 +1,5 @@
+ .\jmeter -n -t C:\Users\surenWayne\Documents\Java Workspace\Java\Testing_library\Apache Jmeter\Testing_Materials\Regex_Test_1.jmx -l C:\Users\surenWayne\Documents\Java%20Workspace\Java\Testing_library\Apache%20Jmeter\Learning_Materials\results.jtl
+
+.\jmeter -n -t Assertion_Test.jmx -l C:\Users\surenWayne\Desktop\result.jtl
+
+BlazeMeter Report- https://a.blazemeter.com/app/?public-token=DDV2rLxR6aUUGnriu
